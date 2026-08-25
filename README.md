@@ -21,4 +21,4 @@ An interactive, AI-assisted Arabic reading companion designed for children aged 
 
 ```bash
 pip install streamlit streamlit-mic-recorder
-streamlit run app.py
+streamlit run Child_AI_Buddy_App.py
